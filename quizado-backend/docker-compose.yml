@@ -1,0 +1,50 @@
+version: "3.5"
+
+services:
+  webapi:
+    image: questionbankimage
+    ports:
+      - "5000:80"
+    depends_on:
+      - db
+    environment:
+      Mongo_DB: "mongodb://db:27017"
+
+  gateway:
+    image: gatewayimage
+    ports:
+      - "5001:80"
+    depends_on:
+      - webapi
+      - authapi
+
+  userapi:
+    image: leaderboardimage
+    ports:
+      - "5002:80"
+    depends_on:
+      - db
+    environment:
+      Mongo_DB: "mongodb://db:27017"
+
+  authapi:
+    image: authimage
+    ports:
+      - "5003:80"
+    depends_on:
+      - sqldb
+    environment:
+      SQLSERVICE_Auth: "server=sqldb; database=authdb; User id = sa; password=Password@123"
+
+  db:
+    image: mongo
+    ports:
+      - "27017:27017"
+
+  sqldb:
+    image: mcr.microsoft.com/mssql/server
+    ports:
+      - "1433:1433"
+    environment:
+      SA_PASSWORD: "Password@123"
+      ACCEPT_EULA: "Y"

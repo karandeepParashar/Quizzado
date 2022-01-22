@@ -1,0 +1,635 @@
+[
+    {
+        "QuestionString": "Three of these animals hibernate. Which one does not?",
+        "Option1": "Mouse",
+        "Option2": "Sloth",
+        "Option3": "Frog",
+        "Option4": "Snake",
+        "MarkedOption": null,
+        "CorrectOption": "Sloth",
+        "Difficulty": 2
+    },
+    {
+        "QuestionString": "All of these animals are omnivorous except one.",
+        "Option1": "Fox",
+        "Option2": "Mouse",
+        "Option3": "Opossum",
+        "Option4": "Snail",
+        "MarkedOption": null,
+        "CorrectOption": "Snail",
+        "Difficulty": 2
+    },
+    {
+        "QuestionString": "Three of these Latin names are names of bears. Which is the odd one?",
+        "Option1": "Melursus ursinus",
+        "Option2": "Helarctos malayanus",
+        "Option3": "Ursus minimus",
+        "Option4": "Felis silvestris catus",
+        "MarkedOption": null,
+        "CorrectOption": "Felis silvestris catus",
+        "Difficulty": 2
+    },
+    {
+        "QuestionString": "These are typical Australian animals except one.",
+        "Option1": "Platypus",
+        "Option2": "Dingo",
+        "Option3": "Echidna",
+        "Option4": "Sloth",
+        "MarkedOption": null,
+        "CorrectOption": "Sloth",
+        "Difficulty": 2
+    },
+    {
+        "QuestionString": "Representatives of three of these species produce venom of their own. Which is the odd species?",
+        "Option1": "Lizards",
+        "Option2": "Scorpions",
+        "Option3": "Frogs",
+        "Option4": "Mosquitos",
+        "MarkedOption": null,
+        "CorrectOption": "Mosquitos",
+        "Difficulty": 2
+    },
+    {
+        "QuestionString": "Three of these species shed their skin. Which one does not?",
+        "Option1": "Penguins",
+        "Option2": "Snakes",
+        "Option3": "Insects",
+        "Option4": "Crustaceans",
+        "MarkedOption": null,
+        "CorrectOption": "Penguins",
+        "Difficulty": 2
+    },
+    {
+        "QuestionString": "All of these animals have large ears (relative to their size) except one.",
+        "Option1": "Polar bears",
+        "Option2": "Foxes",
+        "Option3": "Bats",
+        "Option4": "Elephants",
+        "MarkedOption": null,
+        "CorrectOption": "Polar bears",
+        "Difficulty": 2
+    },
+    {
+        "QuestionString": "This percentage of all snakes on Earth are lethal to humans.",
+        "Option1": "10%",
+        "Option2": "20%",
+        "Option3": "15%",
+        "Option4": "25%",
+        "MarkedOption": null,
+        "CorrectOption": "15%",
+        "Difficulty": 2
+    },
+    {
+        "QuestionString": "Snakes are this kind of animals.",
+        "Option1": "Herbivorous",
+        "Option2": "Omnivorous",
+        "Option3": "Carnivorous",
+        "Option4": "Vegetarian",
+        "MarkedOption": null,
+        "CorrectOption": "Carnivorous",
+        "Difficulty": 2
+    },
+    {
+
+        "QuestionString": "Snakes consume their food by means of this process.",
+        "Option1": "Breathing",
+        "Option2": "Absorption",
+        "Option3": "Swallowing",
+        "Option4": "Chewing",
+        "MarkedOption": null,
+        "CorrectOption": "Swallowing",
+        "Difficulty": 2
+    },
+    {
+
+        "QuestionString": "Snakes belong to the following category.",
+        "Option1": "Invertebrates",
+        "Option2": "Lizards",
+        "Option3": "Reptiles",
+        "Option4": "Mammals",
+        "MarkedOption": null,
+        "CorrectOption": "Reptiles",
+        "Difficulty": 2
+    },
+    {
+
+        "QuestionString": "A specialist in snakes is called one of these.",
+        "Option1": "Pisciculturist",
+        "Option2": "Ornithologist",
+        "Option3": "Ophiologist",
+        "Option4": "Herpetologist",
+        "MarkedOption": null,
+        "CorrectOption": "Ophiologist",
+        "Difficulty": 2
+    },
+    {
+
+        "QuestionString": "One of the following snakes does not belong to the Viperidae family.",
+        "Option1": "Horned adder",
+        "Option2": "Grass snake",
+        "Option3": "Viper",
+        "Option4": "Asp",
+        "MarkedOption": null,
+        "CorrectOption": "Grass snake",
+        "Difficulty": 2
+    },
+    {
+
+        "QuestionString": "Cobras are venomous snakes of family Elapidae, that generally inhabit regions of these two continents.",
+        "Option1": "South America and Asia",
+        "Option2": "Asia and Africa",
+        "Option3": "Asia and Australia",
+        "Option4": "South America and Australia",
+        "MarkedOption": null,
+        "CorrectOption": "Asia and Africa",
+        "Difficulty": 2
+    },
+    {
+
+        "QuestionString": "The cobras most recognizable feature is its hood, a flap of skin and muscle behind the head, believed to serve this purpose.",
+        "Option1": "Balance control",
+        "Option2": "Heat collection from sun rays",
+        "Option3": "Camouflage",
+        "Option4": "More threatening appearance",
+        "MarkedOption": null,
+        "CorrectOption": "More threatening appearance",
+        "Difficulty": 2
+    },
+    {
+
+        "QuestionString": "The Cobra is at the top of the food chain, with only two main predators -- one is man and the other is this animal.",
+        "Option1": "Jackal",
+        "Option2": "Mongoose",
+        "Option3": "Lynx",
+        "Option4": "Eagle",
+        "MarkedOption": null,
+        "CorrectOption": "Mongoose",
+        "Difficulty": 2
+    },
+    {
+
+        "QuestionString": "This is where the Cobras ribs are situated.",
+        "Option1": "Behind its head",
+        "Option2": "In its chest, around the middle of the body",
+        "Option3": "Cobras have no ribs",
+        "Option4": "In its tale",
+        "MarkedOption": null,
+        "CorrectOption": "Behind its head",
+        "Difficulty": 2
+    },
+    {
+
+        "QuestionString": "A baby cobra is fully able to defend itself in as little as this many hours after being born.",
+        "Option1": "3",
+        "Option2": "12",
+        "Option3": "48",
+        "Option4": "72",
+        "MarkedOption": null,
+        "CorrectOption": "3",
+        "Difficulty": 2
+    },
+    {
+
+        "QuestionString": "What type of dog did Richard Nixon receive from a Texan while he was a candidate for Vice President?",
+        "Option1": "German Shepherd",
+        "Option2": "Cocker Spaniel",
+        "Option3": "Golden Retriever",
+        "Option4": "Welsh Corgy",
+        "MarkedOption": null,
+        "CorrectOption": "Cocker Spaniel",
+        "Difficulty": 2
+    },
+    {
+
+        "QuestionString": "What was the name of Socks companion at the White House during the Clinton Administration?",
+        "Option1": "Buddy",
+        "Option2": "Shoes",
+        "Option3": "Bailey",
+        "Option4": "Buster",
+        "MarkedOption": null,
+        "CorrectOption": "Buddy",
+        "Difficulty": 2
+    },
+    {
+        "QuestionString": "Three of these animals hibernate. Which one does not?",
+        "Option1": "Mouse",
+        "Option2": "Sloth",
+        "Option3": "Frog",
+        "Option4": "Snake",
+        "MarkedOption": null,
+        "CorrectOption": "Sloth",
+        "Difficulty": 3
+    },
+    {
+        "QuestionString": "All of these animals are omnivorous except one.",
+        "Option1": "Fox",
+        "Option2": "Mouse",
+        "Option3": "Opossum",
+        "Option4": "Snail",
+        "MarkedOption": null,
+        "CorrectOption": "Snail",
+        "Difficulty": 3
+    },
+    {
+        "QuestionString": "Three of these Latin names are names of bears. Which is the odd one?",
+        "Option1": "Melursus ursinus",
+        "Option2": "Helarctos malayanus",
+        "Option3": "Ursus minimus",
+        "Option4": "Felis silvestris catus",
+        "MarkedOption": null,
+        "CorrectOption": "Felis silvestris catus",
+        "Difficulty": 3
+    },
+    {
+        "QuestionString": "These are typical Australian animals except one.",
+        "Option1": "Platypus",
+        "Option2": "Dingo",
+        "Option3": "Echidna",
+        "Option4": "Sloth",
+        "MarkedOption": null,
+        "CorrectOption": "Sloth",
+        "Difficulty": 3
+    },
+    {
+        "QuestionString": "Representatives of three of these species produce venom of their own. Which is the odd species?",
+        "Option1": "Lizards",
+        "Option2": "Scorpions",
+        "Option3": "Frogs",
+        "Option4": "Mosquitos",
+        "MarkedOption": null,
+        "CorrectOption": "Mosquitos",
+        "Difficulty": 3
+    },
+    {
+        "QuestionString": "Three of these species shed their skin. Which one does not?",
+        "Option1": "Penguins",
+        "Option2": "Snakes",
+        "Option3": "Insects",
+        "Option4": "Crustaceans",
+        "MarkedOption": null,
+        "CorrectOption": "Penguins",
+        "Difficulty": 3
+    },
+    {
+        "QuestionString": "All of these animals have large ears (relative to their size) except one.",
+        "Option1": "Polar bears",
+        "Option2": "Foxes",
+        "Option3": "Bats",
+        "Option4": "Elephants",
+        "MarkedOption": null,
+        "CorrectOption": "Polar bears",
+        "Difficulty": 3
+    },
+    {
+        "QuestionString": "This percentage of all snakes on Earth are lethal to humans.",
+        "Option1": "10%",
+        "Option2": "20%",
+        "Option3": "15%",
+        "Option4": "25%",
+        "MarkedOption": null,
+        "CorrectOption": "15%",
+        "Difficulty": 3
+    },
+    {
+        "QuestionString": "Snakes are this kind of animals.",
+        "Option1": "Herbivorous",
+        "Option2": "Omnivorous",
+        "Option3": "Carnivorous",
+        "Option4": "Vegetarian",
+        "MarkedOption": null,
+        "CorrectOption": "Carnivorous",
+        "Difficulty": 3
+    },
+    {
+
+        "QuestionString": "Snakes consume their food by means of this process.",
+        "Option1": "Breathing",
+        "Option2": "Absorption",
+        "Option3": "Swallowing",
+        "Option4": "Chewing",
+        "MarkedOption": null,
+        "CorrectOption": "Swallowing",
+        "Difficulty": 3
+    },
+    {
+
+        "QuestionString": "Snakes belong to the following category.",
+        "Option1": "Invertebrates",
+        "Option2": "Lizards",
+        "Option3": "Reptiles",
+        "Option4": "Mammals",
+        "MarkedOption": null,
+        "CorrectOption": "Reptiles",
+        "Difficulty": 3
+    },
+    {
+
+        "QuestionString": "A specialist in snakes is called one of these.",
+        "Option1": "Pisciculturist",
+        "Option2": "Ornithologist",
+        "Option3": "Ophiologist",
+        "Option4": "Herpetologist",
+        "MarkedOption": null,
+        "CorrectOption": "Ophiologist",
+        "Difficulty": 3
+    },
+    {
+
+        "QuestionString": "One of the following snakes does not belong to the Viperidae family.",
+        "Option1": "Horned adder",
+        "Option2": "Grass snake",
+        "Option3": "Viper",
+        "Option4": "Asp",
+        "MarkedOption": null,
+        "CorrectOption": "Grass snake",
+        "Difficulty": 3
+    },
+    {
+
+        "QuestionString": "Cobras are venomous snakes of family Elapidae, that generally inhabit regions of these two continents.",
+        "Option1": "South America and Asia",
+        "Option2": "Asia and Africa",
+        "Option3": "Asia and Australia",
+        "Option4": "South America and Australia",
+        "MarkedOption": null,
+        "CorrectOption": "Asia and Africa",
+        "Difficulty": 3
+    },
+    {
+
+        "QuestionString": "The cobras most recognizable feature is its hood, a flap of skin and muscle behind the head, believed to serve this purpose.",
+        "Option1": "Balance control",
+        "Option2": "Heat collection from sun rays",
+        "Option3": "Camouflage",
+        "Option4": "More threatening appearance",
+        "MarkedOption": null,
+        "CorrectOption": "More threatening appearance",
+        "Difficulty": 3
+    },
+    {
+
+        "QuestionString": "The Cobra is at the top of the food chain, with only two main predators -- one is man and the other is this animal.",
+        "Option1": "Jackal",
+        "Option2": "Mongoose",
+        "Option3": "Lynx",
+        "Option4": "Eagle",
+        "MarkedOption": null,
+        "CorrectOption": "Mongoose",
+        "Difficulty": 3
+    },
+    {
+
+        "QuestionString": "This is where the Cobras ribs are situated.",
+        "Option1": "Behind its head",
+        "Option2": "In its chest, around the middle of the body",
+        "Option3": "Cobras have no ribs",
+        "Option4": "In its tale",
+        "MarkedOption": null,
+        "CorrectOption": "Behind its head",
+        "Difficulty": 3
+    },
+    {
+
+        "QuestionString": "A baby cobra is fully able to defend itself in as little as this many hours after being born.",
+        "Option1": "3",
+        "Option2": "12",
+        "Option3": "48",
+        "Option4": "72",
+        "MarkedOption": null,
+        "CorrectOption": "3",
+        "Difficulty": 3
+    },
+    {
+
+        "QuestionString": "What type of dog did Richard Nixon receive from a Texan while he was a candidate for Vice President?",
+        "Option1": "German Shepherd",
+        "Option2": "Cocker Spaniel",
+        "Option3": "Golden Retriever",
+        "Option4": "Welsh Corgy",
+        "MarkedOption": null,
+        "CorrectOption": "Cocker Spaniel",
+        "Difficulty": 3
+    },
+    {
+
+        "QuestionString": "What was the name of Socks companion at the White House during the Clinton Administration?",
+        "Option1": "Buddy",
+        "Option2": "Shoes",
+        "Option3": "Bailey",
+        "Option4": "Buster",
+        "MarkedOption": null,
+        "CorrectOption": "Buddy",
+        "Difficulty": 3
+    },
+    {
+        "QuestionString": "Three of these animals hibernate. Which one does not?",
+        "Option1": "Mouse",
+        "Option2": "Sloth",
+        "Option3": "Frog",
+        "Option4": "Snake",
+        "MarkedOption": null,
+        "CorrectOption": "Sloth",
+        "Difficulty": 1
+    },
+    {
+        "QuestionString": "All of these animals are omnivorous except one.",
+        "Option1": "Fox",
+        "Option2": "Mouse",
+        "Option3": "Opossum",
+        "Option4": "Snail",
+        "MarkedOption": null,
+        "CorrectOption": "Snail",
+        "Difficulty": 1
+    },
+    {
+        "QuestionString": "Three of these Latin names are names of bears. Which is the odd one?",
+        "Option1": "Melursus ursinus",
+        "Option2": "Helarctos malayanus",
+        "Option3": "Ursus minimus",
+        "Option4": "Felis silvestris catus",
+        "MarkedOption": null,
+        "CorrectOption": "Felis silvestris catus",
+        "Difficulty": 1
+    },
+    {
+        "QuestionString": "These are typical Australian animals except one.",
+        "Option1": "Platypus",
+        "Option2": "Dingo",
+        "Option3": "Echidna",
+        "Option4": "Sloth",
+        "MarkedOption": null,
+        "CorrectOption": "Sloth",
+        "Difficulty": 1
+    },
+    {
+        "QuestionString": "Representatives of three of these species produce venom of their own. Which is the odd species?",
+        "Option1": "Lizards",
+        "Option2": "Scorpions",
+        "Option3": "Frogs",
+        "Option4": "Mosquitos",
+        "MarkedOption": null,
+        "CorrectOption": "Mosquitos",
+        "Difficulty": 1
+    },
+    {
+        "QuestionString": "Three of these species shed their skin. Which one does not?",
+        "Option1": "Penguins",
+        "Option2": "Snakes",
+        "Option3": "Insects",
+        "Option4": "Crustaceans",
+        "MarkedOption": null,
+        "CorrectOption": "Penguins",
+        "Difficulty": 1
+    },
+    {
+        "QuestionString": "All of these animals have large ears (relative to their size) except one.",
+        "Option1": "Polar bears",
+        "Option2": "Foxes",
+        "Option3": "Bats",
+        "Option4": "Elephants",
+        "MarkedOption": null,
+        "CorrectOption": "Polar bears",
+        "Difficulty": 1
+    },
+    {
+        "QuestionString": "This percentage of all snakes on Earth are lethal to humans.",
+        "Option1": "10%",
+        "Option2": "20%",
+        "Option3": "15%",
+        "Option4": "25%",
+        "MarkedOption": null,
+        "CorrectOption": "15%",
+        "Difficulty": 1
+    },
+    {
+        "QuestionString": "Snakes are this kind of animals.",
+        "Option1": "Herbivorous",
+        "Option2": "Omnivorous",
+        "Option3": "Carnivorous",
+        "Option4": "Vegetarian",
+        "MarkedOption": null,
+        "CorrectOption": "Carnivorous",
+        "Difficulty": 1
+    },
+    {
+
+        "QuestionString": "Snakes consume their food by means of this process.",
+        "Option1": "Breathing",
+        "Option2": "Absorption",
+        "Option3": "Swallowing",
+        "Option4": "Chewing",
+        "MarkedOption": null,
+        "CorrectOption": "Swallowing",
+        "Difficulty": 1
+    },
+    {
+
+        "QuestionString": "Snakes belong to the following category.",
+        "Option1": "Invertebrates",
+        "Option2": "Lizards",
+        "Option3": "Reptiles",
+        "Option4": "Mammals",
+        "MarkedOption": null,
+        "CorrectOption": "Reptiles",
+        "Difficulty": 1
+    },
+    {
+
+        "QuestionString": "A specialist in snakes is called one of these.",
+        "Option1": "Pisciculturist",
+        "Option2": "Ornithologist",
+        "Option3": "Ophiologist",
+        "Option4": "Herpetologist",
+        "MarkedOption": null,
+        "CorrectOption": "Ophiologist",
+        "Difficulty": 1
+    },
+    {
+
+        "QuestionString": "One of the following snakes does not belong to the Viperidae family.",
+        "Option1": "Horned adder",
+        "Option2": "Grass snake",
+        "Option3": "Viper",
+        "Option4": "Asp",
+        "MarkedOption": null,
+        "CorrectOption": "Grass snake",
+        "Difficulty": 1
+    },
+    {
+
+        "QuestionString": "Cobras are venomous snakes of family Elapidae, that generally inhabit regions of these two continents.",
+        "Option1": "South America and Asia",
+        "Option2": "Asia and Africa",
+        "Option3": "Asia and Australia",
+        "Option4": "South America and Australia",
+        "MarkedOption": null,
+        "CorrectOption": "Asia and Africa",
+        "Difficulty": 1
+    },
+    {
+
+        "QuestionString": "The cobras most recognizable feature is its hood, a flap of skin and muscle behind the head, believed to serve this purpose.",
+        "Option1": "Balance control",
+        "Option2": "Heat collection from sun rays",
+        "Option3": "Camouflage",
+        "Option4": "More threatening appearance",
+        "MarkedOption": null,
+        "CorrectOption": "More threatening appearance",
+        "Difficulty": 1
+    },
+    {
+
+        "QuestionString": "The Cobra is at the top of the food chain, with only two main predators -- one is man and the other is this animal.",
+        "Option1": "Jackal",
+        "Option2": "Mongoose",
+        "Option3": "Lynx",
+        "Option4": "Eagle",
+        "MarkedOption": null,
+        "CorrectOption": "Mongoose",
+        "Difficulty": 1
+    },
+    {
+
+        "QuestionString": "This is where the Cobras ribs are situated.",
+        "Option1": "Behind its head",
+        "Option2": "In its chest, around the middle of the body",
+        "Option3": "Cobras have no ribs",
+        "Option4": "In its tale",
+        "MarkedOption": null,
+        "CorrectOption": "Behind its head",
+        "Difficulty": 1
+    },
+    {
+
+        "QuestionString": "A baby cobra is fully able to defend itself in as little as this many hours after being born.",
+        "Option1": "3",
+        "Option2": "12",
+        "Option3": "48",
+        "Option4": "72",
+        "MarkedOption": null,
+        "CorrectOption": "3",
+        "Difficulty": 1
+    },
+    {
+
+        "QuestionString": "What type of dog did Richard Nixon receive from a Texan while he was a candidate for Vice President?",
+        "Option1": "German Shepherd",
+        "Option2": "Cocker Spaniel",
+        "Option3": "Golden Retriever",
+        "Option4": "Welsh Corgy",
+        "MarkedOption": null,
+        "CorrectOption": "Cocker Spaniel",
+        "Difficulty": 1
+    },
+    {
+
+        "QuestionString": "What was the name of Socks companion at the White House during the Clinton Administration?",
+        "Option1": "Buddy",
+        "Option2": "Shoes",
+        "Option3": "Bailey",
+        "Option4": "Buster",
+        "MarkedOption": null,
+        "CorrectOption": "Buddy",
+        "Difficulty": 1
+    }
+]
